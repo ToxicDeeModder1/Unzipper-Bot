@@ -48,11 +48,11 @@ class Buttons:
 
 class Messages:
     START_TEXT = """
-Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
+Hi **{}**, I'm **Naruto Unzipper Bot** 😇!
 
 `I can extract archives like zip, rar, tar etc.`
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with ❤️ by @TheBotsWorldChannel**
     """
 
     HELP_TXT = """
@@ -69,15 +69,15 @@ Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
     """
 
     ABOUT_TXT = """
-**About Nexa Unzipper Bot,**
+**About Naruto Unzipper Bot,**
 
 ✘ **Language:** [Python](https://www.python.org/)
 ✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)
-✘ **Source Code:** [Itz-fork/Unzipper-Bot](https://github.com/Itz-fork/Unzipper-Bot)
-✘ **Developer:** [Itz-fork](https://github.com/Itz-fork)
+✘ **Source Code:** [Naruto/Unzipper-Bot](https://t.me/ToxicDeeModderr)
+✘ **Developer:** [Toxic Dee Modder](https://t.me/ToxicDeeModderr)
 
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with ❤️ by @TheBotsWorldChannel**
     """
 
     LOG_TXT = """
@@ -99,7 +99,7 @@ Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
 **Extraction Successfull!**
 
 **Extraction time:** `{}`
-**Status:** `Trying to upload`
+**Status:** `Toxic's Trying To Download`
     """
 
     EXT_FAILED_TXT = """
@@ -111,7 +111,7 @@ Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
  - `Please make sure that you selected the right mode!`
  - `May be Your archive format isn't supported 😔`
 
-**Please report this at @Nexa_bots if you think this is a serious error**
+**Please report this at @NarutoSupportChat if you think this is a serious error**
     """
 
     ERROR_TXT = """
@@ -120,7 +120,7 @@ Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
 **ERROR:** {}
 
 
-**Please report this at @Nexa_bots if you think this is a serious error**
+**Please report this at @NarutoSupportChat if you think this is a serious error**
     """
 
     CANCELLED_TXT = """
