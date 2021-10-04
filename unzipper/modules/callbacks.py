@@ -44,7 +44,7 @@ async def unzipper_cb(unzip_bot: Client, query: CallbackQuery):
             # Extracting process
             mode = query.data.split("|")
             if mode[1] == "with_pass":
-                password = await unzip_bot.ask(chat_id=query.message.chat.id ,text="**Please send me the password 🔑:**")
+                password = await unzip_bot.ask(chat_id=query.message.chat.id ,text="**Please send me the password Bro 😐:**")
                 ext_s_time = time()
                 extractor = await extract_with_7z_helper(path=ext_files_dir, archive_path=archive, password=password.text)
                 ext_e_time = time()
@@ -100,8 +100,8 @@ async def unzipper_cb(unzip_bot: Client, query: CallbackQuery):
                 pass
             await query.message.edit("`I've already sent you those files 😐, Don't ask me to resend 😒!`")
         for file in paths:
-            await unzip_bot.send_document(chat_id=spl_data[2], document=file, caption="**Extracted by @NexaUnzipper_Bot**")
-        await query.message.edit("**Successfully Uploaded!** \n\n **Join @NexaBotsUpdates ❤️**")
+            await unzip_bot.send_document(chat_id=spl_data[2], document=file, caption="**Extracted by @NarutoDectoBot**")
+        await query.message.edit("**Successfully Uploaded!** \n\n **Join @NarutoSupportChat ❤️**")
         try:
             shutil.rmtree(f"{Config.DOWNLOAD_LOCATION}/{spl_data[1]}")
         except FileNotFoundError:
