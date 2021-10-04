@@ -23,14 +23,14 @@ And Some other features 🔥!
 Deploying is easy 🤫! You can deploy this bot in Heroku or in a VPS ♥️! **Star 🌟 Fork 🍴 and Deploy**
 
 ### With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Itz-fork/Unzipper-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ToxicDeeModder1/Unzipper-Bot)
 
 
 ### With VPS
 
 - Clone this repo
 ```bash
-git clone https://github.com/Itz-fork/Unzipper-Bot.git
+git clone https://github.com/ToxicDeeModder1/Unzipper-Bot.git
 ```
 
 - Enter to the project directory,
