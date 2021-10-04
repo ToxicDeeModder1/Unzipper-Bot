@@ -7,9 +7,9 @@
         "Telegram Bot",
         "unzipper bot"
     ],
-    "website": "https://t.me/NexaBotsUpdates",
-    "repository": "https://github.com/Itz-fork/Unzipper-Bot",
-    "success_url": "https://t.me/NexaBotsUpdates",
+    "website": "https://github.com/ToxicDeeModder1/Unzipper-Bot",
+    "repository": "https://github.com/ToxicDeeModder1/Unzipper-Bot",
+    "success_url": "https://t.me/NarutoDectoBot",
     "env": {
         "APP_ID": {
             "description": "Your APP_ID from my.telegram.org",
